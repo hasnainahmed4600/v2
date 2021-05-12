@@ -93,25 +93,25 @@ export const Buttons = () => {
 
   const DATA = [
     {
-      href: 'https://github.com/adamalston/',
+      href: 'https://github.com/hasnainahmed4600/',
       aria: 'Visit my GitHub profile',
       icon: <GitHub />,
       label: 'GitHub',
     },
     {
-      href: 'https://www.linkedin.com/in/adam-alston/',
+      href: '#',
       aria: 'Visit my LinkedIn profile',
       icon: <LinkedIn />,
       label: 'LinkedIn',
     },
     {
-      href: 'https://drive.google.com/drive/folders/10k8NWflSYQ5laPzuWtK3bzUKzuOeas8i/',
+      href: '#',
       aria: 'Visit Google Drive to view and download my resume',
       icon: <Resume />,
       label: 'Resume',
     },
     {
-      href: 'mailto:aalston9@gmail.com',
+      href: 'hasnainahmed4600@gmail.com',
       aria: 'Send me an email with this template',
       icon: <Email />,
       label: 'Email',
@@ -131,3 +131,4 @@ export const Buttons = () => {
     </Container>
   );
 };
+
