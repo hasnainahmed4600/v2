@@ -111,7 +111,7 @@ export const Buttons = () => {
       label: 'Resume',
     },
     {
-      href: 'hasnainahmed4600@gmail.com',
+      href: 'mailto:hasnainahmed4600@gmail.com',
       aria: 'Send me an email with this template',
       icon: <Email />,
       label: 'Email',
