@@ -99,7 +99,7 @@ export const Buttons = () => {
       label: 'GitHub',
     },
     {
-      href: '#',
+      href: 'https://www.linkedin.com/in/hasnain-ahmed-dev/',
       aria: 'Visit my LinkedIn profile',
       icon: <LinkedIn />,
       label: 'LinkedIn',
