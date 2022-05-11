@@ -37,7 +37,7 @@ export const Content = () => {
   return (
     <div>
       <C.Name theme={theme} data-v2='name' aria-label='My name is Adam Alston'>Hasnain Ahmed</C.Name>
-      <C.Title theme={theme} data-v2='title' aria-label='I am a software engineer'>Mobile App Engineer</C.Title>
+      <C.Title theme={theme} data-v2='title' aria-label='I am a software engineer'>Full Stack Engineer</C.Title>
     </div>
   );
 };
